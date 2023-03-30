@@ -3,6 +3,8 @@
 https://www.youtube.com/watch?v=t10QcFx7d5k
 https://github.com/flatplanet/Django-CRM.git
 
+https://raw.githubusercontent.com/RodrigoMvs123/Django-Project-Code-a-CRM-App-Tutorial/main/README.md
+
 
 
 Django CRM 
